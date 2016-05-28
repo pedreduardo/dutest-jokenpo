@@ -1,0 +1,15 @@
+Goku: scissors | Edward_Scissorhands: scissors
+Catwoman: paper | The_Thing: rock
+Mun_Ha: paper | Mystique: scissors
+Edward_Scissorhands: scissors | The_Thing: rock
+Goku: paper | Mystique: paper
+The_Thing: rock | Mystique: rock
+Catwoman: scissors | Mun_Ha: paper
+Goku: paper | Catwoman: scissors
+Edward_Scissorhands: scissors | Catwoman: paper
+The_Thing: rock | Mun_Ha: paper
+Goku: rock | Mun_Ha: paper
+Edward_Scissorhands: scissors | Mystique: scissors
+Catwoman: rock | Mystique: paper
+Goku: scissors | The_Thing: rock
+Edward_Scissorhands: scissors | Mun_Ha: paper
